@@ -11,7 +11,7 @@
         this.age =age;
         this.id = id;
         this.address = address;
-        //constructor and we use this. to differentiate the parameter lis and current
+        //constructor
     }
     public void setname(String name){
         this.name = name;
